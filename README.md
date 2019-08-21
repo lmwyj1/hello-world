@@ -8,3 +8,4 @@ public static void main(){
 ~~~
 
 add by ahaka1 ---v1
+add new somethine
